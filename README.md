@@ -1,4 +1,4 @@
 # Tweaks
-**Make C# better and easier!**
+**_Make C# better and easier!_**
 
-**_Work in progress_**
+**Work in progress**
